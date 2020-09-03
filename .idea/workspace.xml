@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd6c5c1-1510-4871-ba2f-052494195748" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/pin.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/pin.imageset/pin@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/pin.imageset/pin@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Authorization/LoginController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Authorization/LoginView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Authorization/MainController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Authorization/SignUpController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Authorization/SignUpView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Extensions/SafeAreaLayout+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Extensions/UIButton+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Extensions/UIColor+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Extensions/UIStackView+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Extensions/UITextField+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Models/AppUser.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Assets.xcassets/Bitmap.imageset/Bitmap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Assets.xcassets/Bitmap.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Assets.xcassets/Pin.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Assets.xcassets/Pin.imageset/Pin.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/MapScreen.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Assets.xcassets/Pin.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Assets.xcassets/Pin.imageset/Pin.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/MapScreen.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableviews/tableviews/TableViewCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/CustomAnnotationPin/CustomAnnotationPin/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp.xcodeproj/xcuserdata/pavelbogart.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp.xcodeproj/xcuserdata/pavelbogart.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/FireApp/FireApp/Supporting Files/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FireApp/FireApp/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Core Data/Learning Core Data.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Core Data/Learning Core Data.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Core Data/Learning Core Data.xcodeproj/project.xcworkspace/xcuserdata/kylelee.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Core Data/Learning Core Data.xcodeproj/project.xcworkspace/xcuserdata/kylelee.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/PersistenceManager.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/PersistenceManager.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Core Data/Learning Core Data/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions.xcodeproj/xcuserdata/seanallen.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions.xcodeproj/xcuserdata/seanallen.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions (1)/MapKit-Directions/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions.xcodeproj/xcuserdata/seanallen.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions.xcodeproj/xcuserdata/seanallen.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapKit-Directions/MapKit-Directions/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/static/css/master.css" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/static/css/master.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/book/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-n-search-web/src/main/resources/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/ElibraryDemocrudWebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/static/css/master.css" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/static/css/master.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/book/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/main/resources/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software Engineering (SWEng)/ModelProject/elibrary-democrud-web-with-springunittesting/src/test/java/edu/mum/cs/cs425/demos/elibrarydemocrudweb/ElibraryDemocrudWebApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StanfordSwiftUI/StanfordSwiftUI/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/StanfordSwiftUI/StanfordSwiftUI/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afterAlongTime/afterAlongTime/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/afterAlongTime/afterAlongTime/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afterAlongTime/afterAlongTime/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/afterAlongTime/afterAlongTime/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/ActionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Associations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Crew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/ItemReplacement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Mission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/MissionItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/Scenario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/AMTS/src/solution/SingleScenario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/Authorization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/CollectionOfOneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Benchmark/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/AssociationClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/CollectionOfMany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/CollectionOfOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/ManyToMany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/ManyToOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/OneToMany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/OneToOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/Quadruplet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/TernaryAssociationClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Associations/src/Framework/Triplet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/skeleton/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/skeleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/solution/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.1 Client-Managed Association/src/solution/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/skeleton/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/skeleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/solution/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.2 Object-Managed Association/src/solution/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/skeleton/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/skeleton/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/skeleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/solution/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/solution/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.3 Link Factory/src/solution/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/skeleton/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/skeleton/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/skeleton/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/skeleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/solution/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/solution/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/solution/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 04.4 Introspective Link Factory/src/solution/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/skeleton/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/skeleton/SimpleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/SimpleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/search/TODO/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/search/TODO/Link.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.2 Iterator/src/solution/search/TODO/SimpleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Associations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/CompTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/DomainObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/ObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/RawObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/SalesConsultant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Terms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/TravelCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.3.1 Propagation with Framework/src/five/Vendor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/bin/VisitorCreationNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/src/VisitorCreationNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/src/demo1/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/src/demo2/Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/src/demo3/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Demos/src/demo4/Demo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/CompTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/DomainObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/ObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/SalesConsultant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Terms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/deal/Vendor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/visitors/ProfitVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/visitors/TravelVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor-Skeleton/src/skeleton/visitors/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/CompTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/DomainObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/ObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/SalesConsultant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Terms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/deal/Vendor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/visitors/ProfitVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/visitors/TravelVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 05.4 Visitor/src/solution/visitors/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/.packaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/packaging-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/DomainFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/skeleton/TrainingProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/DomainFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/DomainFactoryImproved.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/TrainingProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/DomainFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/DomainFactoryImproved.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.2 Object Factory/src/solution/singleton/TrainingProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/src/skeleton/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/src/solution/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.3 Singleton/src/solution/Warnings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/AddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/GermanAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/GermanAddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/GermanPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/USAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/USAddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/skeleton/USPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/AddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/CanadianAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/CanadianAddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/CanadianPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/GermanAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/GermanAddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/GermanPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/USAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/USAddressFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.5 Abstract Factory/src/solution/USPhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/skeleton/Catalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/skeleton/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/skeleton/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/skeleton/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/solution/Catalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/solution/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/solution/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.6 Prototype/src/solution/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/Builder Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/Attribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/CSharpWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/ClassDiagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/ClassRelationship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/JavaWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/ModelWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/skeleton/XMLWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/Attribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/CSharpWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/ClassDiagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/ClassRelationship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/JavaWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/ModelWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 06.7 Builder/src/solution/XMLWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/skeleton/EmailMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/skeleton/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/solution/EmailMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Email/src/solution/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/src/generics/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/src/generics/StackClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/src/solutions/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Adapter-Stack/src/solutions/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/.packaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/packaging-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/client/ClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Contract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Discipline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/DisciplineGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/DomainObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/SchedulableItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/TrainingProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/ApplicationManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/EnrollmentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/EnrollmentManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/PublicClassManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/domain/facade/PublicClassManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/persistence/OODatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/util/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/util/Debug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/util/MonthDateFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling - Skeleton/src/util/TimePeriod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/.packaging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/packaging-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/client/ClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/ConferenceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Contract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Discipline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/DisciplineGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/DomainObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/PublicClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/SchedulableItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/TrainingProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/ApplicationManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/EnrollmentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/EnrollmentManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/PublicClassManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/domain/facade/PublicClassManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/persistence/OODatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/util/AbstractAssociation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/util/Debug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/util/MonthDateFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.1 Public Class Scheduling/src/util/TimePeriod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/bin/skeleton/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/bin/solution/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/bin/solution1/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/bin/solution2/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/BoxedSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/HTMLSlideDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/TextSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/skeleton/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/BoxedSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/HTMLSlideDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/TextSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/BoxedSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/HTMLSlideDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/TextSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution1/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/BoxedSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/HTMLSlideDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/TextSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v1/src/solution2/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/bin/skeleton/sampleOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/HTMLDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/skeleton/sampleOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/Border.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/CSSBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/HTMLDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/HTMLSlide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/Slide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v2/src/solution/SpecialFont.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/src/decorator/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/src/decorator/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/src/decorator/ConcreteComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 08.2 Decorator v3/src/decorator/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/skeleton/PopPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/skeleton/PushPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/skeleton/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/skeleton/StackMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/solution/PopPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/solution/PushPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/solution/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.3 Mediator/src/solution/StackMediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/CustomerServiceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/PostSaleSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/PreSaleSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/ServiceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/skeleton/TechSupportSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/CustomerServiceCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/PostSaleSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/PreSaleSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/ServiceRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 09.5 Chain of Responsibility/src/solution/TechSupportSpecialist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/DigitProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/DigitProcessingState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/EndState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/IdentifyingAccountState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/PlayingGreetingState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/skeleton/ProcessingMenuState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/DigitProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/DigitProcessingState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/EndState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/IdentifyingAccountState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/PlayingGreetingState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 10.1 State - DigitProcessing/src/solution/ProcessingMenuState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/bin/rules/memo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/CompTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/ObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/PersistentObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/SalesConsultant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Terms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/deal/Vendor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/OrderAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/OrderCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/OrderMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/OrderState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/Rules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/methods/RulesOriginal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/AndConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/BooleanValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/CompositeRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/DifferentFrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/DoubleValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Executable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/GreaterThan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/IsIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/LogicalConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/OrConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Rule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/RuleItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/SameAs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Statement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/StringValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/Value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/ValueSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/XorConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules-Skeleton/src/rules/memo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/bin/rules/memo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/CompTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Deal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Domain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/ObjectManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/PersistentObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/PhoneCall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/SalesConsultant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Terms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/deal/Vendor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/OrderAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/OrderCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/OrderMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/OrderState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/Rules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/methods/RulesOriginal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/AndConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/BooleanValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Comparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/CompositeRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/DifferentFrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/DoubleValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Executable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/GreaterThan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/IsIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/LogicalConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/OrConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Rule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/RuleItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/SameAs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Statement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/StringValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/Value.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/ValueSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/XorConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/Lab 11.1 Rules/src/rules/memo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-labs/RemoteSystemsTempFiles/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableviews/tableviews.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/tableviews/tableviews.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableviews/tableviews/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/tableviews/tableviews/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableviews/tableviews/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/tableviews/tableviews/ViewController.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gypJO1BQgy7CHcecki3kGEMpOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1599096679234" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd6c5c1-1510-4871-ba2f-052494195748" name="Default Changelist" comment="" />
+      <created>1599096614273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599096614273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="342" width="551" height="199" key="Github.ShareDialog" timestamp="1599097354819">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="563" y="342" width="551" height="199" key="Github.ShareDialog/0.23.1440.877@0.23.1440.877" timestamp="1599097354819" />
+    <state x="152" y="155" key="Github.UntrackedFilesDialog" timestamp="1599097509074">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="152" y="155" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1599097509074" />
+    <state x="389" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1599097253101">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="389" y="314" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1599097253101" />
+  </component>
+</project>
