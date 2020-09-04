@@ -34,7 +34,7 @@
         android:textSize="24sp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/editTxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -45,7 +45,7 @@
         android:hint="enter your favorite food" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/addFoodBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="100dp"
@@ -55,15 +55,17 @@
         android:textStyle="bold"
         android:textSize="24dp"
         android:layout_marginBottom="120dp"
+        android:onClick="addFoodBtnPressed"
         android:text="Add Food" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/decideBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#374E59"
         android:textColor="#B6BEC6"
         android:textStyle="bold"
         android:textSize="24dp"
+        android:onClick="decideBtnPressed"
         android:text="Decide!" />
 </LinearLayout>
